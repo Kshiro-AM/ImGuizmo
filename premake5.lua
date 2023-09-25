@@ -13,7 +13,7 @@ project "ImGuizmo"
 
     includedirs
     {
-        
+        "../imgui",
     }
 
     filter "system:windows"
